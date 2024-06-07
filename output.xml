@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.0 (Python 3.10.12 on linux)" generated="2024-06-07T17:54:03.692346" rpa="false" schemaversion="5">
+<suite id="s1" name="Testdemo1" source="/home/rabik/PycharmProjects/Udemy Project/testdemo1.robot">
+<test id="s1-t1" name="Validate Unsuccessful Login" line="6">
+<kw name="Open the Browser with the Mortgage payment url">
+<kw name="Create Webdriver" owner="SeleniumLibrary">
+<msg time="2024-06-07T17:54:03.787316" level="INFO">Creating an instance of the Chrome WebDriver.</msg>
+<arg>Chrome</arg>
+<doc>Creates an instance of Selenium WebDriver.</doc>
+<status status="PASS" start="2024-06-07T17:54:03.787150" elapsed="0.783976"/>
+</kw>
+<kw name="Go To" owner="SeleniumLibrary">
+<msg time="2024-06-07T17:54:04.571613" level="INFO">Opening url 'https://rahulshettyacademy.com/loginpagePractise/'</msg>
+<arg>https://rahulshettyacademy.com/loginpagePractise/</arg>
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<status status="PASS" start="2024-06-07T17:54:04.571388" elapsed="0.273321"/>
+</kw>
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2024-06-07T17:54:09.845476" level="INFO">Slept 5 seconds.</msg>
+<arg>5s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2024-06-07T17:54:04.845059" elapsed="5.000593"/>
+</kw>
+<status status="PASS" start="2024-06-07T17:54:03.786575" elapsed="6.059278"/>
+</kw>
+<status status="PASS" start="2024-06-07T17:54:03.786145" elapsed="6.060038"/>
+</test>
+<doc>To validate the Login form</doc>
+<status status="PASS" start="2024-06-07T17:54:03.693156" elapsed="6.154340"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Testdemo1">Testdemo1</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
