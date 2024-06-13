@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83daf35f-d1d4-44cc-9a52-5bce2b3b7af1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/resource.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testdemo2.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testdemo1.robot" beforeDir="false" afterPath="$PROJECT_DIR$/testdemo1.robot" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +92,7 @@
       <workItem from="1717760124620" duration="13000" />
       <workItem from="1717761013814" duration="1050000" />
       <workItem from="1717762076561" duration="421000" />
-      <workItem from="1718258064286" duration="1075000" />
+      <workItem from="1718258064286" duration="4075000" />
     </task>
     <servers />
   </component>
